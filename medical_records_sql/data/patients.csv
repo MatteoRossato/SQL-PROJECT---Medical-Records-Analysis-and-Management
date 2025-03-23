@@ -1,1 +1,7 @@
+-- Example of How DB should be structured
+
+name,age,gender,admission_date
+Mario Rossi,55,M,2024-03-01
+Anna Bianchi,45,F,2024-03-05
+Luca Verdi,60,M,2024-03-10
 
