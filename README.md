@@ -1,4 +1,4 @@
-# SQL-PROJECT---Medical-Records-Analysis-and-Management
+# SQL-PROJECT---Medical_Records_Analysis_and_Management
 
 ## **🩺 Medical Records SQL**  
 A **SQL database** for managing medical records and performing data analysis. This project uses **SQLite** to store patient and diagnosis data, allowing advanced analysis through **SQL queries** and **Python scripts**. It also includes a **Flask API** for structured data access.  
